@@ -1,0 +1,1 @@
+chrome-extension://cijidiollmnkegoghpfobabpecdkeiah/js/common/allsites-script.js
